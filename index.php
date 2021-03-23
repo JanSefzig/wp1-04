@@ -9,7 +9,7 @@
 <body>
 <?php
 
-$temperature = 56?
+$temperature = 56;
 
 if($temperature >= 100) [
     echo "Můžu jít na kolotoč";
