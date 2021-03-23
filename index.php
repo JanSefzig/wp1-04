@@ -9,19 +9,18 @@
 <body>
 <?php
 
-$temperature = 56;
+$money = 56;
 
-if($temperature >= 100) [
+if($money >= 100) {
     echo "Můžu jít na kolotoč" ;
-] elseif(temperature < 50 ) [
+} elseif(money < 50 ) {
     echo "Nemůžu jít nikam" ;
-] else {
-    echo "Počet peněz je: $temperature = Můžu jít na autodrom"
-]
+} else {
+    echo "Počet peněz je: $money = Můžu jít na autodrom"
+}
 
-if($password = "heslo123") [
-    echo "užij si to" ;
-]
+php?>
+
 
 
     
