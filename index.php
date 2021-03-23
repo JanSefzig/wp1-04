@@ -19,7 +19,7 @@ if($money >= 100) {
     echo "Počet peněz je: $money = Můžu jít na autodrom"
 }
 
-php?>
+?>
 
 
 
