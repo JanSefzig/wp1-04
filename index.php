@@ -9,14 +9,14 @@
 <body>
 <?php
 
-$money = 56;
+$money = 0;
 
-if($money >= 100) {
+if($money > 100) {
     echo "Můžu jít na kolotoč" ;
-} elseif($money < 50 ) {
-    echo "Nemůžu jít nikam" ;
+} elseif($money > 50 ) {
+    echo "Můžu jít na autodrom" ;
 } else {
-    echo "Počet peněz je: $money = Můžu jít na autodrom" ;
+    echo "Počet peněz je: $money = Nemůžu jít nikam" ;
 }
 
 ?>
