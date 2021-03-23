@@ -16,7 +16,7 @@ if($money >= 100) {
 } elseif(money < 50 ) {
     echo "Nemůžu jít nikam" ;
 } else {
-    echo "Počet peněz je: $money = Můžu jít na autodrom"
+    echo "Počet peněz je: $money = Můžu jít na autodrom" ;
 }
 
 ?>
