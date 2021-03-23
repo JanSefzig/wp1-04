@@ -12,15 +12,15 @@
 $temperature = 56;
 
 if($temperature >= 100) [
-    echo "Můžu jít na kolotoč";
+    echo "Můžu jít na kolotoč" ;
 ] elseif(temperature < 50 ) [
-    echo "Nemůžu jít nikam";
+    echo "Nemůžu jít nikam" ;
 ] else {
     echo "Počet peněz je: $temperature = Můžu jít na autodrom"
 ]
 
 if($password = "heslo123") [
-    echo "užij si to";
+    echo "užij si to" ;
 ]
 
 
