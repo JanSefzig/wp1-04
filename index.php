@@ -13,7 +13,7 @@ $money = 56;
 
 if($money >= 100) {
     echo "Můžu jít na kolotoč" ;
-} elseif(money < 50 ) {
+} elseif($money < 50 ) {
     echo "Nemůžu jít nikam" ;
 } else {
     echo "Počet peněz je: $money = Můžu jít na autodrom" ;
